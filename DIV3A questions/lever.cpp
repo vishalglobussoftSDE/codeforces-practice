@@ -2,6 +2,7 @@
 // not able to solve even after 42 mins and dont understand why same element a[i] - b[i] is same at starting position leads to possible answer watch case 4
 #include <bits/stdc++.h>
 using namespace std;
+
 int main()
 {
     int t;
